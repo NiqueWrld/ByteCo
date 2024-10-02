@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "603174730982",
+    "project_id": "buildco-f1a85",
+    "storage_bucket": "buildco-f1a85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603174730982:android:1eb5ea7afef671dab10f27",
+        "android_client_info": {
+          "package_name": "com.niquewrld.buildco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvd2X6ODmzvz7I75m6MnwEpEkAc-bhBYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

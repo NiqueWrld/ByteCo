@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ByteCo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="payment_methods">
+        <item>Credit Card</item>
+        <item>Debit Card</item>
+        <item>PayPal</item>
+        <item>Google Pay</item>
+        <item>Apple Pay</item>
+    </string-array>
+
+</resources>
